@@ -1,5 +1,5 @@
-* https://arxiv.org/pdf/1803.06799.pdf : Revisiting RCNN: On Awakening the Classification Power of Faster RCNN  
-https://arxiv.org/abs/1810.04002.pdf : Decoupled Classification Refinement: Hard False Positive Suppression for Object Detection  
+## Revisiting RCNN: On Awakening the Classification Power of Faster RCNN : https://arxiv.org/pdf/1803.06799.pdf 
+## Decoupled Classification Refinement: Hard False Positive Suppression for Object Detection: https://arxiv.org/abs/1810.04002.pdf
   * 2 stage object detectors use feature extraction backbones which are pretrained on classification tasks. Classification tasks rely on object/objects/scenes presence and not on positional information. Hence classification tasks are translation invariant and object detection is translation covariant. A direct consequence of this is that ROIs that are part of an object, the classification head successfully tries to classify the object even though the ROI might not encapsulate the entire image. In such a case, the classifier overpowers the localization task.
   * Hard false positives do not occur due to localization but rather due to misclassification.
   * The above 2 points infer that 1) Localization and Classification heads should not share a lot of features. They should rather have their own branches (after a small common feature extraction trunk) to learn parameters to do the respective tasks separately 2) Multi-task learning through backpropagating through 2 loss functions are not effective as it may lead to sub optimal performance on both the tasks
