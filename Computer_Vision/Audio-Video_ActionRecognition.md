@@ -7,4 +7,4 @@
 
 #### Methodology for Supervised Task
 
-
+![alt text](Images/1803_08842_Supervised.PNG?raw=true "Model for Supervised AVE Localization")
