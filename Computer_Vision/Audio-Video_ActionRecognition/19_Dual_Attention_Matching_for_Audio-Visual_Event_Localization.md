@@ -1,5 +1,6 @@
 ### ICCV19: Dual Attention Matching for Audio-Visual Event Localization by Wu et. al.
 
+* Paper: https://yu-wu.net/pdf/ICCV2019_Dual-Attention-Matching.pdf
 * Prereq: 1803.08842: Audio-Visual Event Localization in Unconstrained Videos by Tian et. al.
 * Tackles the Cross Modal and Supervised Multi-Modal Localization Tasks on the AVE Dataset
 
