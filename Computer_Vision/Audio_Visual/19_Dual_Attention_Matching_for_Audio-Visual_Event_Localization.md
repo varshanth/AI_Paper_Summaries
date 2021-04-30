@@ -11,8 +11,8 @@
 
 * For the cross modal localization task, say A2V, to identify the "l" length visual sequence, we take the global audio feature and the N local visual features and calculate p<sub>t</sub><sup>A</sup> for each t in N. The "l" sized window with the maximum sum of the p<sup>V</sup> values corresponds to the localized visual segment. V2A localization is calculated similarly.
 
-![alt text](Images/19_Dual_Attention_Matching_Method.PNG?raw=true "DAM")
+![alt text](Images/19_Dual_Attention_Matching_Method.png?raw=true "DAM")
 
 #### Results
 
-![alt text](Images/19_Dual_Attention_Matching_Results.PNG?raw=true "DAM")
+![alt text](Images/19_Dual_Attention_Matching_Results.png?raw=true "DAM")
