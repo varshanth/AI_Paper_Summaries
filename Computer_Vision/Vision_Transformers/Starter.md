@@ -1,6 +1,7 @@
 # Transformers for Vision
 
 ## Vision Transformer (ViT)
+https://theaisummer.com/vision-transformer/
 ## Swin Transformer: https://arxiv.org/abs/2103.14030
 1) https://www.youtube.com/watch?v=tFYxJZBAbE8&ab_channel=AIBites  
 2) https://www.youtube.com/watch?v=SndHALawoag&ab_channel=AICoffeeBreakwithLetitia
