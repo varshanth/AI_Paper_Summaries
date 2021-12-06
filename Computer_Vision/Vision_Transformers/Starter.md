@@ -2,6 +2,10 @@
 
 ## Vision Transformer (ViT): https://arxiv.org/abs/2010.11929
 https://theaisummer.com/vision-transformer/
+
+## Data Efficient Image Transformer (DeiT): https://arxiv.org/pdf/2012.12877.pdf
+https://storrs.io/deit/
+
 ## Swin Transformer: https://arxiv.org/abs/2103.14030
 1) https://www.youtube.com/watch?v=tFYxJZBAbE8&ab_channel=AIBites  
 2) https://www.youtube.com/watch?v=SndHALawoag&ab_channel=AICoffeeBreakwithLetitia
